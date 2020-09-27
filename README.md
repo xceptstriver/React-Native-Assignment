@@ -8,11 +8,11 @@ The deadline is 4 days after the initial commit.
 You can send an unsigned apk / signed apk and/or an installable .ipa via Diawi or Firebase App Distribution (email it to: sai@moglix.com)
 
 # Tech
-Not Skippable
-Redux (preferably with redux-saga)
-React Native UI Framework (Any UI Framework, Nativebase, RNElements, UIKitten, Nachos)
-Some form of Linting
-React Navigation (with or without react-native-router-flux)
+- Not Skippable
+- Redux (preferably with redux-saga)
+- React Native UI Framework (Any UI Framework, Nativebase, RNElements, UIKitten, Nachos)
+- Some form of Linting
+- React Navigation (with or without react-native-router-flux)
 
 # The Rules
 A Github repository to maintain the code
