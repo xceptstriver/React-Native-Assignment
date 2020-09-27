@@ -26,16 +26,16 @@
 # The Assignment
 The assignment is a very simple micro blogging platform. It's not a full fledged functional platform but let me test your skill levels. I'll give you the set of features I expect from it.
 
-- Screens
-  List all posts.
-  Add a post.
+###### Screens
+  - List all posts.
+  - Add a post.
 
- - List All Posts
-   Simple screen that lists all the available posts, this can be fetched from any publicly available api. (ex. JSONPlaceholder)
-   Bonus Functionality If you could add a manual frontend filtration logic that'll search through the title of the numerous posts.
+ ###### List All Posts
+   - Simple screen that lists all the available posts, this can be fetched from any publicly available api. (ex. JSONPlaceholder)
+   - Bonus Functionality If you could add a manual frontend filtration logic that'll search through the title of the numerous posts.
    
- - Add a Post
-   Since you can't post to the actual public api's just making the post request and showing a success message for it, works. So, You'll have a text box and a        submit button for me to make a post with.
+ ###### Add a Post
+   - Since you can't post to the actual public api's just making the post request and showing a success message for it, works. So, You'll have a text box and a        submit button for me to make a post with.
 
 - If you are ahead of the deadline and can add any other functionality that you think you'd like to add, you can, just make sure you list it in the Readme.
 
